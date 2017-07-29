@@ -39,7 +39,6 @@
             app:contentScrim="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             android:fitsSystemWindows="true"
-            android:background="@color/theme_accent"
             >
 
             <android.support.v7.widget.Toolbar
